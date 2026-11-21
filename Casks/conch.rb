@@ -7,7 +7,7 @@ cask "conch" do
   desc "Terminal manager for running many Claude Code sessions side by side"
   homepage "https://github.com/alexgrant999/conch"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "Conch.app"
