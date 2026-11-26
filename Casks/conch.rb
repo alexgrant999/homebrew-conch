@@ -1,6 +1,6 @@
 cask "conch" do
-  version "0.2.1"
-  sha256 "3471e3405ff8b24a72f518f7cffc17e1d9f5842effdb2d0beba9fdba9cd624c5"
+  version "0.3.0"
+  sha256 "b8f4d32f889009117ddd83c04b2b9b7874715bb6c085663c6e55bcb833df84b8"
 
   url "https://github.com/alexgrant999/conch/releases/download/v#{version}/Conch-#{version}.zip"
   name "Conch"
